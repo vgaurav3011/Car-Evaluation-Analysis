@@ -28,11 +28,13 @@
 
 ## Modelling and Evaluation
 
-- Random Forest Classifier surpasses its counterparts MLP and Logistic Regression with an accuracy of 93.5% on the data.
-- Logistic Regression comes down to 70 percent in accuracy score with many false negatives present in the prediction.
-- This is an expected behaviour since LR works for binary classifications and does not converge well for multiple classes since it bases on the theory of probability estimates of the classes that can clash.
-- MLP classifier fails to converge to optimal performance.
-- Accuracy Score is used as the metric for evaluation.
+- Random Forest Classifier tuned with Synthetic Minority Oversampling Technique or SMOTE is used to balance the classes as per need.
+- The bias in model is removed and boosts the accuracy to over 96% percent
+- Grid Search is performed to tune up with Random Forest to determine suitable number of estimators.
+- Logistic Regression fails to converge to a good solution with 81 percent accuracy.
+- MLP Classifier also converges to a less good solution
+- Decision tree is successful with minimum 10-11 estimators, and fails on over 12 estimators.
+- Accuracy Score is chosen as the evaluation metric
 
 ## Deployment
 
