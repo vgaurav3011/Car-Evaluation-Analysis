@@ -35,6 +35,11 @@
 - MLP Classifier also converges to a less good solution
 - Decision tree is successful with minimum 10-11 estimators, and fails on over 12 estimators.
 - Accuracy Score is chosen as the evaluation metric
+- The feature importances for the dataset is as follows with respect to Random Forest Model at 96.5% accuracy:
+
+![alt-text](https://raw.githubusercontent.com/vgaurav3011/Car-Evaluation-Analysis/master/assets/feature-importance.png)
+
+
 
 ## Deployment
 
