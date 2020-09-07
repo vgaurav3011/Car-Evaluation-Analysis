@@ -57,3 +57,4 @@
   ![alt-text](https://raw.githubusercontent.com/vgaurav3011/Car-Evaluation-Analysis/master/assets/dashboard.gif)
   
   
+  ![alt-text](https://raw.githubusercontent.com/vgaurav3011/Car-Evaluation-Analysis/master/assets/car_eval.gif)
