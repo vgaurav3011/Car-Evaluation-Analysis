@@ -65,6 +65,8 @@
   
   `streamlit run app.py`
   
+  - It is also deployed on Heroku for a while at [Link](https://aqueous-falls-45593.herokuapp.com/)
+  
   ![alt-text](https://raw.githubusercontent.com/vgaurav3011/Car-Evaluation-Analysis/master/assets/dashboard.gif)
   
   
